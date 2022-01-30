@@ -1,4 +1,4 @@
-# Projeto-animais !!!
+# Animais Fantásticos !!!
 
 <a href="https://imgur.com/IHXToDm"><img src="https://i.imgur.com/IHXToDm.jpg"/></a>
 
